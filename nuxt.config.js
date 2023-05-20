@@ -1,4 +1,8 @@
 export default {
+  ssr: false,
+  generate: {
+    dir: "public"
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'nuxt-web3-202305',
