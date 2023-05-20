@@ -90,4 +90,4 @@ sw.*
 *.swp
 
 .envrc
-build/contract/*
+build/contracts/*
